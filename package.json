@@ -1,0 +1,11 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Example.js",
+  "scripts": {
+    "test": "console.log('Hello World')"
+  },
+  "author": "Athanas",
+  "license": "ISC"
+}
